@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: auto;
+  padding: auto;
+  overflow-x: hidden;
+
+  --font-family: inter, acumin-pro, sans-serif;
+}
+
+body {
+  scroll-behavior: smooth;
+  font-family: var(--font-family);
+  list-style: none;
+}
